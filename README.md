@@ -5,7 +5,7 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
 
 ---
 
-## 🚀 Linguagens e Tecnologias
+##  Linguagens e Tecnologias
 
 <p align="left">
   <img 
@@ -15,15 +15,6 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
   />
-  
-  <img 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  />
-  
   <img 
     alt="HTML" 
     title="HTML" 
@@ -31,7 +22,6 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
   />
-  
   <img 
     alt="CSS" 
     title="CSS" 
@@ -39,7 +29,13 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
   />
-  
+  <img 
+    alt="JavaScript" 
+    title="JavaScript" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />
   <img 
     alt="Python" 
     title="Python" 
@@ -47,12 +43,11 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   />
-  
 </p>
 
 ---
 
-## 🛠️ Ferramentas
+##  Ferramentas
 
 <p align="left">
   <img 
@@ -73,10 +68,10 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
 
 ---
 
-## 📬 Contatos
+##  Contatos
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/daniscreides" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img 
       alt="LinkedIn" 
       title="LinkedIn" 
@@ -85,7 +80,7 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
     />
   </a>
-  <a href="mailto:danielisouza436@gmail.com">
+  <a href="mailto:SEUEMAIL@gmail.com">
     <img 
       alt="Gmail" 
       title="Gmail" 
