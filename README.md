@@ -1,4 +1,4 @@
-# DANI
+# Danieli de Souza Santos
 
 Aspirante a Desenvolvedor | Estudante de TI | Aprendiz 1000DEVs (Java & Full Stack)  
 Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tecnologias Web
