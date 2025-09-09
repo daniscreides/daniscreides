@@ -71,13 +71,13 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
 ##  Contatos
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/daniscreides" target="_blank">
     <img 
       alt="LinkedIn" 
       title="LinkedIn" 
       width="40px" 
       style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/daniscreides.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
     />
   </a>
   <a href="mailto:danielisouza436@gmail.com">
