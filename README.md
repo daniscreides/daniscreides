@@ -77,10 +77,10 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
       title="LinkedIn" 
       width="40px" 
       style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/daniscreides.svg"
     />
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:danielisouza436@gmail.com">
     <img 
       alt="Gmail" 
       title="Gmail" 
