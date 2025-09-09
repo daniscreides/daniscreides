@@ -1,6 +1,6 @@
-# Dani
+# DANI
 
-Aspirante a Desenvolvedor | Estudante de TI pelo IFPB-CG | Aprendiz 1000DEVs (Java & Full Stack)  
+Aspirante a Desenvolvedor | Estudante de TI | Aprendiz 1000DEVs (Java & Full Stack)  
 Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tecnologias Web
 
 ---
@@ -42,6 +42,13 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  />
+  <img 
+    alt="Next.js" 
+    title="Next.js" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
   />
 </p>
 
