@@ -57,7 +57,6 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
   />
-</p>
   <img 
     alt="VSCode" 
     title="VSCode" 
