@@ -44,11 +44,18 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   />
   <img 
-    alt="Next.js" 
-    title="Next.js" 
+    alt="Node.js" 
+    title="Node.js" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+  />
+  <img 
+    alt="React.js" 
+    title="React.js" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
   />
 </p>
 
