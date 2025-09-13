@@ -58,25 +58,12 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
   />
 </p>
-
----
-
-##  Ferramentas
-
-<p align="left">
   <img 
     alt="VSCode" 
     title="VSCode" 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-  />
-  <img 
-    alt="Node.js" 
-    title="Node.js" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
   />
 </p>
 
