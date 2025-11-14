@@ -1,7 +1,6 @@
 # Danieli de Souza Santos
 
-Aspirante a Desenvolvedor | Estudante de TI | Aprendiz 1000DEVs (Java & Full Stack)  
-Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tecnologias Web
+Aprendiz 1000DEVs (FullStack) | HTML | CSS | JavaScript | JavaScript | TypeScript | React | Java | Python | MySQL
 
 ---
 
@@ -42,13 +41,6 @@ Back-end | Lógica de Programação | Python | Desenvolvimento de Software & Tec
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  />
-  <img 
-    alt="Node.js" 
-    title="Node.js" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
   />
   <img 
     alt="React.js" 
