@@ -35,12 +35,26 @@ Aprendiz 1000DEVs (FullStack) | HTML | CSS | JavaScript | JavaScript | TypeScrip
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
   />
+   <img 
+    alt="HTML" 
+    title="HTML" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    https://cdn.jsdelivr.net/npm/typescript@5.9.3/lib/typescript.min.js
+  />
   <img 
     alt="Python" 
     title="Python" 
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  />
+    <img 
+    alt="Python" 
+    title="Python" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/mysql@2.18.1/index.min.js"
   />
   <img 
     alt="React.js" 
