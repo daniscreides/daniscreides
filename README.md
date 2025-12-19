@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Estudante de Desenvolvimento FullStack!</strong></h1>
+<h1 align="left"><strong>Estudante de Desenvolvimento FullStack!</strong></h1>
 
 <p align="center">
   <a href="mailto:danielisouza436@gmail.com">
@@ -8,8 +8,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
----
-<p align="center">
+
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=daniscreides&show_icons=true&theme=dracula&hide_border=true"
     height="140"
@@ -19,9 +19,9 @@
     height="140"
   />
 </p>
----
-<h2 align="center">Tecnologias & Ferramentas</h2>
-<p align="center">
+
+<h2 align="left">Tecnologias & Ferramentas</h2>
+<p align="left">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   </a>
