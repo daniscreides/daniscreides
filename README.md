@@ -1,10 +1,4 @@
-# Oi, eu sou a Dani!
-
-💻 Estudante de Desenvolvimento FullStack
-
----
-
-## 🌐 Conecte-se comigo
+Estudante de Desenvolvimento FullStack!
 
 <p align="left">
   <a href="mailto:danielisouza436@gmail.com">
@@ -17,19 +11,11 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
 ![Dani GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniscreides&show_icons=true&theme=dracula&hide_border=true)
-
----
-
-## 💻 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniscreides&layout=compact&theme=dracula&hide_border=true)
 
 ---
-
-## 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -42,16 +28,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
-
----
-
-## 🔥 Streak de commits
-
-![GitHub Streak](https://streak-stats.demolab.com?user=daniscreides&theme=dracula&hide_border=true)
-
----
-
-## 👀 Visitas no perfil
-
-![Profile Views](https://komarev.com/ghpvc/?username=daniscreides&color=red)
-
