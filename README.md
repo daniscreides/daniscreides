@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FF2D55&center=true&vCenter=true&width=650&lines=Oi,+eu+sou+a+Dani!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Estudante de Desenvolvimento FullStack!" />
 </p>
-
-
-
 
 <p align="left">
   <a href="mailto:danielisouza436@gmail.com">
