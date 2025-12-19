@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Estudante de Desenvolvimento FullStack!</strong></h1>
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?
@@ -10,9 +10,10 @@
     center=true&
     vCenter=true&
     width=600&
-    lines=Estudante de Desenvolvimento FullStack!"
+    lines=🧟‍♀️+Oi,+eu+sou+a+Dani!"
   />
 </p>
+
 
 
 <p align="left">
