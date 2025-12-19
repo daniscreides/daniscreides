@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=2000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Estudante de Desenvolvimento FullStack!" />
-</p>
+<h1 align="center"><strong>Estudante de Desenvolvimento FullStack!</strong></h1>
 
 <p align="left">
   <a href="mailto:danielisouza436@gmail.com">
@@ -16,11 +14,11 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=daniscreides&show_icons=true&theme=dracula&hide_border=true"
-    height="170"
+    height="150"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniscreides&layout=compact&theme=dracula&hide_border=true"
-    height="170"
+    height="150"
   />
 </p>
 
