@@ -1,4 +1,19 @@
-Estudante de Desenvolvimento FullStack!
+<h1 align="center"><strong>Estudante de Desenvolvimento FullStack!</strong></h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=40&
+    duration=3000&
+    pause=1000&
+    color=FF2D55&
+    center=true&
+    vCenter=true&
+    width=600&
+    lines=Estudante de Desenvolvimento FullStack!"
+  />
+</p>
+
 
 <p align="left">
   <a href="mailto:danielisouza436@gmail.com">
@@ -11,9 +26,16 @@ Estudante de Desenvolvimento FullStack!
 
 ---
 
-![Dani GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniscreides&show_icons=true&theme=dracula&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniscreides&layout=compact&theme=dracula&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=daniscreides&show_icons=true&theme=dracula&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniscreides&layout=compact&theme=dracula&hide_border=true"
+    height="170"
+  />
+</p>
 
 ---
 
