@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Estudante de Desenvolvimento FullStack!" />
-</p>
+<h1 align="center" style="font-family: 'JetBrains Mono', monospace;">
+  Estudante de Desenvolvimento FullStack!
+</h1>
+
 
 <p align="left">
   <a href="mailto:danielisouza436@gmail.com">
