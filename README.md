@@ -12,11 +12,11 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=daniscreides&show_icons=true&theme=dracula&hide_border=true"
-    height="150"
+    height="140"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniscreides&layout=compact&theme=dracula&hide_border=true"
-    height="150"
+    height="140"
   />
 </p>
 ---
