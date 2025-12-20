@@ -1,4 +1,7 @@
-<h1 align="left"><strong>Estudante de Desenvolvimento FullStack!</strong></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=14000&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&lines=Estudante%20de%20Desenvolvimento%20FullStack%21" />
+</p>
+
 
 <p align="left">
   <img
