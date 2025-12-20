@@ -1,6 +1,12 @@
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=12000&color=FFFFFF&center=false&vCenter=false&width=800&lines=System.out.print%28%22Estudante%20de%20Desenvolvimento%20FullStack%21%22%29%3B" />
+<p style="display:flex; align-items:center; gap:0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=12000&color=C586C0&center=false&vCenter=false&width=120&lines=System" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=12000&color=4EC9B0&center=false&vCenter=false&width=70&lines=.out." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=12000&color=6A9955&center=false&vCenter=false&width=90&lines=printf" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=12000&color=FFFFFF&center=false&vCenter=false&width=20&lines=%28" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=12000&color=DCDCAA&center=false&vCenter=false&width=520&lines=%22Estudante%20de%20Desenvolvimento%20FullStack%21%22" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=12000&color=FFFFFF&center=false&vCenter=false&width=40&lines=%29%3B" />
 </p>
+
 
 
 
