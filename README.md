@@ -1,13 +1,11 @@
-<p style="font-family: 'JetBrains Mono', monospace; font-size:22;">
-  <span style="color:#C586C0;">System</span>
-  <span style="color:#4EC9B0;">.out.</span>
-  <span style="color:#6A9955;">print</span>
-  <span style="color:#FFFFFF;">("</span>
+<p style="display:flex; align-items:center; gap:4px;">
+  <img src="https://img.shields.io/badge/System.out.printf(%22-%20-?style=flat&color=2b2b2b&labelColor=2b2b2b" style="height:32px;" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=12000&color=DCDCAA&center=false&vCenter=false&width=520&lines=Estudante%20de%20Desenvolvimento%20FullStack%21" style="vertical-align:middle;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=12000&color=DCDCAA&center=false&vCenter=false&width=520&lines=Estudante%20de%20Desenvolvimento%20FullStack%21" />
 
-  <span style="color:#FFFFFF;">");</span>
+  <img src="https://img.shields.io/badge/");-?style=flat&color=2b2b2b&labelColor=2b2b2b" style="height:32px;" />
 </p>
+
 
 <p align="left">
   <img
