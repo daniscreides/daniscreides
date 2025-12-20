@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="mailto:danielisouza436@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right:10px;" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right:10;" />
   </a>
 
   <a href="https://www.linkedin.com/in/daniscreides" target="_blank">
