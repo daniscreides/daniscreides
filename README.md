@@ -1,10 +1,13 @@
-<p style="display:flex; align-items:center; gap:4;">
-  <img src="https://img.shields.io/badge/System.out.printf(%22-%20-?style=flat&color=2b2b2b&labelColor=2b2b2b" style="height:32;" />
+<p style="display:flex; align-items:center; gap:4px;">
+  <img src="https://img.shields.io/badge/System.out.printf(%22--?style=flat&color=2b2b2b&labelColor=2b2b2b"
+       style="height:32px;" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=12000&color=DCDCAA&center=false&vCenter=false&width=520&lines=Estudante%20de%20Desenvolvimento%20FullStack%21" />
 
-  <img src="https://img.shields.io/badge/");-?style=flat&color=2b2b2b&labelColor=2b2b2b" style="height:32px;" />
+  <img src="https://img.shields.io/badge/%22);--?style=flat&color=2b2b2b&labelColor=2b2b2b"
+       style="height:32px;" />
 </p>
+
 
 
 <p align="left">
