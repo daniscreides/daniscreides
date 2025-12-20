@@ -1,18 +1,23 @@
 <p>
-  <img
-    src="https://img.shields.io/badge/System.out.printf(%22-?style=flat&color=2b2b2b&labelColor=2b2b2b"
-    height="32"
-  />
+  <!-- SVG fixo -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="420" height="40">
+    <style>
+      .sys { fill:#C586C0; font-family:JetBrains Mono, monospace; font-size:22px; }
+      .out { fill:#4EC9B0; font-family:JetBrains Mono, monospace; font-size:22px; }
+      .fn  { fill:#6A9955; font-family:JetBrains Mono, monospace; font-size:22px; }
+      .sym { fill:#FFFFFF; font-family:JetBrains Mono, monospace; font-size:22px; }
+    </style>
+    <text x="0" y="26" class="sys">System</text>
+    <text x="78" y="26" class="out">.out.</text>
+    <text x="150" y="26" class="fn">printf</text>
+    <text x="220" y="26" class="sym">("</text>
+    <text x="390" y="26" class="sym">");</text>
+  </svg>
 
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=12000&color=DCDCAA&center=false&vCenter=false&width=520&lines=Estudante%20de%20Desenvolvimento%20FullStack%21"
-  />
-
-  <img
-    src="https://img.shields.io/badge/%22);-?style=flat&color=2b2b2b&labelColor=2b2b2b"
-    height="32"
-  />
+  <!-- String animada -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=12000&color=DCDCAA&center=false&vCenter=false&width=520&lines=Estudante%20de%20Desenvolvimento%20FullStack%21" />
 </p>
+
 
 
 
