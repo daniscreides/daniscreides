@@ -2,10 +2,10 @@
   <!-- SVG fixo -->
   <svg xmlns="http://www.w3.org/2000/svg" width="420" height="40">
     <style>
-      .sys { fill:#C586C0; font-family:JetBrains Mono, monospace; font-size:22px; }
-      .out { fill:#4EC9B0; font-family:JetBrains Mono, monospace; font-size:22px; }
-      .fn  { fill:#6A9955; font-family:JetBrains Mono, monospace; font-size:22px; }
-      .sym { fill:#FFFFFF; font-family:JetBrains Mono, monospace; font-size:22px; }
+      .sys { fill:#C586C0; font-family:JetBrains Mono, monospace; font-size:22; }
+      .out { fill:#4EC9B0; font-family:JetBrains Mono, monospace; font-size:22; }
+      .fn  { fill:#6A9955; font-family:JetBrains Mono, monospace; font-size:22; }
+      .sym { fill:#FFFFFF; font-family:JetBrains Mono, monospace; font-size:22; }
     </style>
     <text x="0" y="26" class="sys">System</text>
     <text x="78" y="26" class="out">.out.</text>
