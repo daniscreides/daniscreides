@@ -1,6 +1,7 @@
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=14000&color=FFFFFF&background=000000&center=false&vCenter=false&width=600&lines=Estudante%20de%20Desenvolvimento%20FullStack%21" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=14000&color=FFFFFF&center=false&vCenter=false&width=600&lines=Estudante%20de%20Desenvolvimento%20FullStack%21" />
 </p>
+
 
 
 
