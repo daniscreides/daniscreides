@@ -1,26 +1,6 @@
 <p>
-  <!-- SVG fixo -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="420" height="40">
-    <style>
-      .sys { fill:#C586C0; font-family:JetBrains Mono, monospace; font-size:22; }
-      .out { fill:#4EC9B0; font-family:JetBrains Mono, monospace; font-size:22; }
-      .fn  { fill:#6A9955; font-family:JetBrains Mono, monospace; font-size:22; }
-      .sym { fill:#FFFFFF; font-family:JetBrains Mono, monospace; font-size:22; }
-    </style>
-    <text x="0" y="26" class="sys">System</text>
-    <text x="78" y="26" class="out">.out.</text>
-    <text x="150" y="26" class="fn">printf</text>
-    <text x="220" y="26" class="sym">("</text>
-    <text x="390" y="26" class="sym">");</text>
-  </svg>
-
-  <!-- String animada -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=12000&color=DCDCAA&center=false&vCenter=false&width=520&lines=Estudante%20de%20Desenvolvimento%20FullStack%21" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=12000&color=FFFFFF&center=false&vCenter=false&width=700&lines=Estudante%20de%20Desenvolvimento%20FullStack%21" />
 </p>
-
-
-
-
 
 <p align="left">
   <img
