@@ -4,7 +4,7 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniscreides&layout=compact&theme=dracula&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniscreides&layout=compact&theme=dracula&hide_border=false"
     height="180"
     hspace="50"
   />
