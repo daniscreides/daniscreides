@@ -4,19 +4,12 @@
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniscreides&layout=compact&theme=dracula&hide_border=true"
-    height="180"
-    hspace="20"
-  />
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"
-    height="180"
-  />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniscreides&layout=compact&theme=dracula&hide_border=true" height="160" />
 </p>
 
 <p align="left">
   <a href="mailto:danielisouza436@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" hspace="10"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" hspace="10" />
   </a>
 
   <a href="https://www.linkedin.com/in/daniscreides" target="_blank">
